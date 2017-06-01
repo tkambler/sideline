@@ -1,0 +1,78 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "ace-min-noconflict",
+        "scope": null,
+        "escapedName": "ace-min-noconflict",
+        "name": "ace-min-noconflict",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/tim/repos/sideline"
+    ]
+  ],
+  "_from": "ace-min-noconflict@latest",
+  "_id": "ace-min-noconflict@1.1.9",
+  "_inCache": true,
+  "_location": "/ace-min-noconflict",
+  "_nodeVersion": "0.10.25",
+  "_npmUser": {
+    "name": "euprogramador",
+    "email": "euprogramador@gmail.com"
+  },
+  "_npmVersion": "2.10.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "ace-min-noconflict",
+    "scope": null,
+    "escapedName": "ace-min-noconflict",
+    "name": "ace-min-noconflict",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ace-min-noconflict/-/ace-min-noconflict-1.1.9.tgz",
+  "_shasum": "3449319be2a2902409d4159e640349ff9e9d3fe7",
+  "_shrinkwrap": null,
+  "_spec": "ace-min-noconflict",
+  "_where": "/Users/tim/repos/sideline",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/aexoti/ace-min-noconflict/issues"
+  },
+  "dependencies": {},
+  "description": "ACE editor minimized noconflict built files.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "3449319be2a2902409d4159e640349ff9e9d3fe7",
+    "tarball": "https://registry.npmjs.org/ace-min-noconflict/-/ace-min-noconflict-1.1.9.tgz"
+  },
+  "gitHead": "e8d6ffabcef15555156b230b41d6cf576089c336",
+  "homepage": "https://github.com/aexoti/ace-min-noconflict#readme",
+  "license": "MIT",
+  "main": "ace.js",
+  "maintainers": [
+    {
+      "name": "euprogramador",
+      "email": "euprogramador@gmail.com"
+    }
+  ],
+  "name": "ace-min-noconflict",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aexoti/ace-min-noconflict.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.9"
+}
